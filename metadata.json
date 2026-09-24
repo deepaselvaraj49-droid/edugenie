@@ -1,0 +1,8 @@
+{
+  "name": "EduGenie - AI Learning Assistant",
+  "description": "Intelligent study companion powered by Google Gemini for instant Q&A, topic explanations, text summarization, automated quiz generation, personalized learning paths, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
